@@ -45,6 +45,5 @@ get_samples('https://t.me/EnglishChatRoomForLearn', 0, 6000)
 get_samples('https://t.me/beautitips', 2, 10000)
 get_samples('https://t.me/randomchatsenglish', 0, 10000)
 get_samples('https://t.me/pythongroup', 0, 10000)
-# https://t.me/CryptoVIPsignalTA   https://t.me/beautitips   https://t.me/auroritychat
-print(df)
+
 df.to_csv('/Users/sasaatlasov/Desktop/tg.csv')
