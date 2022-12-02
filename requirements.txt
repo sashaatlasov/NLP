@@ -1,0 +1,8 @@
+easynmt 
+sacremoses
+googletrans==4.0.0rc1
+evaluate
+git+https://github.com/google-research/bleurt.git
+datasets
+jiwer
+sacrebleu
